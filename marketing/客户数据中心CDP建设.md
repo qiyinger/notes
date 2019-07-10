@@ -2,4 +2,4 @@
 [cdp是什么？](https://www.linkflowtech.com/blog/687.html)
 
 ## 目标
-通过收集到的
+通过收集到的客户数据按照用户提供的方式进行计算，存入ES中
